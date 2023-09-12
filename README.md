@@ -1,2 +1,2 @@
 # javaLibrary
-Library interface project using Java for college
+**Library Interface** project using **Java** for college
